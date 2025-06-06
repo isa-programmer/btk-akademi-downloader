@@ -16,7 +16,7 @@ except FileExistsError:
 ACCESS_TOKEN = ""
 try:
     with open('token.txt','r') as file:
-        ACCESS_TOKEN = file.read()
+        ACCESS_TOKEN = file.read().strip()
 except FileNotFoundError:
     print("token.txt dosyası açılamadı!")
     sys.exit()
