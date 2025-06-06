@@ -3,9 +3,8 @@
 import requests
 import sys
 import os
-"""
+
 from InquirerPy import inquirer
-from dotenv import load_dotenv
 from yt_dlp import YoutubeDL
 
 VIDEO_PATH = "BTK_KURSLARI"
@@ -14,9 +13,6 @@ try:
 except FileExistsError:
     pass
 
-
-load_dotenv()
-"""
 ACCESS_TOKEN = ""
 try:
     with open('token.txt','r') as file:
