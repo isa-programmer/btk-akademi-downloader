@@ -41,6 +41,6 @@ Sonrasında gerek talimatlar ile videonuzu indirebilirsiniz
 - **access_token** yazan çerez değerinin içindekilerini token.txt dosyasına aynen yapıştırmak
 - Ve hazır
 
->Bu proje GPLv3 lisansı altında yayımlanmıştır ve kullanımda hiçbir sorumluluk kabul edilmez.
+>Bu proje Unlicense lisansı altında yayımlanmıştır ve kullanımda hiçbir sorumluluk kabul edilmez.
 
 Telif hakları [BTK](www.btkakademi.gov.tr)'ya aittir, izinsiz kullanım yasaktır.
