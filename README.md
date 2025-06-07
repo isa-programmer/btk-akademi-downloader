@@ -44,4 +44,4 @@ Sonrasında gerek talimatlar ile videonuzu indirebilirsiniz
 
 >Bu proje Unlicense lisansı altında yayımlanmıştır ve kullanımda hiçbir sorumluluk kabul edilmez.
 
-Telif hakları [BTK](www.btkakademi.gov.tr)'ya aittir, izinsiz kullanım yasaktır.
+Telif hakları [BTK](https://www.btkakademi.gov.tr)'ya aittir, izinsiz kullanım yasaktır.
