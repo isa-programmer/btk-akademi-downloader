@@ -39,6 +39,7 @@ Sonrasında gerek talimatlar ile videonuzu indirebilirsiniz
 	- [Chrome için](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm)
 	- [Firefox için](https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/)
 - **access_token** yazan çerez değerinin içindekilerini token.txt dosyasına aynen yapıştırmak
+- Video indirmek için o kursu başlatmanız gerekir yoksa kurs indirilemeyecektir.
 - Ve hazır
 
 >Bu proje Unlicense lisansı altında yayımlanmıştır ve kullanımda hiçbir sorumluluk kabul edilmez.
